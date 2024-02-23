@@ -1,0 +1,1 @@
+This is an appoinment system. Where patiant can appoint to doctor and doctor can prescribe using this site.
